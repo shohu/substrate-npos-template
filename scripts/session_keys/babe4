@@ -1,0 +1,10 @@
+{
+    "jsonrpc":"2.0",
+    "id":1,
+    "method":"author_insertKey",
+    "params": [
+        "babe",
+        "pulp nose again buddy edge foam aim atom hello follow gauge maze//4//babe",
+        "0x5ee1b0eb383179efbddec0a2b84de7266a05dff810f02e77d6b8ccd927bd8144"
+    ]
+}

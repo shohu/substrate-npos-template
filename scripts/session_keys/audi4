@@ -1,0 +1,10 @@
+{
+    "jsonrpc":"2.0",
+    "id":1,
+    "method":"author_insertKey",
+    "params": [
+        "audi",
+        "pulp nose again buddy edge foam aim atom hello follow gauge maze//4//authority_discovery",
+        "0x307c63d41f5d34c05274931d50b721fca78efb870947645cc928b7b0027a8902"
+    ]
+}

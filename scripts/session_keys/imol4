@@ -1,0 +1,10 @@
+{
+    "jsonrpc":"2.0",
+    "id":1,
+    "method":"author_insertKey",
+    "params": [
+        "imol",
+        "pulp nose again buddy edge foam aim atom hello follow gauge maze//4//im_online",
+        "0x4c36b453f8926d2cc3cb592e57c52b96cd81a6481446443493d5b23241e2ab5d"
+    ]
+}
