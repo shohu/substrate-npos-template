@@ -1,3 +1,7 @@
+# Qiita記事用のrepository
+
+[SubstrateでNominated Proof of Stake(NPoS)を試してみる](https://qiita.com/shohu33/items/fc44ab0ec6533aa5c79f)
+
 # Substrate Node Template
 
 [![Try on playground](https://img.shields.io/badge/Playground-Node_Template-brightgreen?logo=Parity%20Substrate)](https://docs.substrate.io/playground/) [![Matrix](https://img.shields.io/matrix/substrate-technical:matrix.org)](https://matrix.to/#/#substrate-technical:matrix.org)
